@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate technological enthusiast with a k
 - **Programming Languages:** Java, Kotlin, Python
 - **Mobile Development:** Android Development
 - **Scripting & Automation:** Bash
-- **Operating Systems:** Arch Linux
+- **Operating Systems:** Linux *Arch Primarily*
 - **Machine Learning:** Concepts and Fundamentals
 
 ## 🌟 Current Focus
