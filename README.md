@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate technological enthusiast with a keen interest in learning and mastering various tech concepts. My journey in the world of technology has been exciting, and I'm always eager to dive into new challenges and innovations.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dashBlip&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 ## 🛠️ Skills & Technologies
 
 - **Programming Languages:** Java, Kotlin, Python
